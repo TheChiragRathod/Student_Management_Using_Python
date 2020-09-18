@@ -1,7 +1,8 @@
 # Student Management System With Database Using Python
-it conatins 
+This Project contains Below SQLite DataBase Features
 - Insert Data
 - Updata Data
 - Delete Data
 - Display Data
-Features.
+
+With Regex Validation in Email and Enrollment Number Fields.
